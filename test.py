@@ -23,3 +23,6 @@ print(password5)
 
 password6 = "se33w"
 print(password6)
+
+password7 = "se33dw"
+print(password7)
