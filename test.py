@@ -5,3 +5,6 @@ print("change 2")
 admin_unsername="anojah90"
 password = "secret123"
 print(admin_unsername + "" + password)
+
+password2 = "secret1232"
+print(password2)
